@@ -26,8 +26,8 @@ This project was completed during the Tata Data Visualisation virtual internship
 
 - `Data/`: Contains the original or cleaned dataset.
 - `Visuals/`: Power BI `.pbix` file with all visuals and DAX measures.
-- `Presentation/`: Slide deck used to present insights.
-- `Video/`: Optional - MP4 or link to a video presentation.
+- `Presentation/`: [Slide deck used to present insights.](https://github.com/bharadwajdubbaka/Tata-Data-Visualisation-Project/blob/main/Tata_Data_Visualisation_Presentation.pptx)
+- `Video/`: [link to a video presentation.](https://youtu.be/bPanWo7wKjc?si=7vj10pphQRWGmF8g)
 
 ---
 
